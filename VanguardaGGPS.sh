@@ -13,7 +13,7 @@ menu ()
 	clear
 	echo "================================================"
 	echo "Automacao destravar PDV"
-	echo "Em casos de duvidas contactar por e-mail: gabriel.pires@linx.com.br"
+	echo "Em casos de duvidas contactar por e-mail: ..."
 	echo ""
 	echo "1)Resolver carga de Base"
 	echo""
